@@ -1,8 +1,11 @@
 ### 👋 Hello
 
-I'm a **data scientist** and open-source developer with expertise in **healthcare**, **economics** and **statistical inference**.  I have experience with data science projects in sectors such as e-commerce, higher education & healthcare. 👛🎓🩺  I like uncovering patterns from the depths of unstructured data and influencing how people make important business decisions or deploy software - whether they be product teams, executives and the like. 🕵
+I'm a **data scientist** and open-source developer with expertise in **healthcare**, **economics** and **statistical inference**.  I have experience with data science projects in sectors such as e-commerce, education & healthcare. 👛📚🩺  I'm currently studying [MPhil Population Health Sciences](https://www.phs.masters.cam.ac.uk) (_Health Data Science_ stream) at the University of Cambridge. 🎓
 
-Check out my open-source library for regression modelling in Python: [`appelpy`](https://github.com/mfarragher/appelpy) (Applied Econometrics Library for Python) 🍏🥧.
+These are data science **packages and apps** I've developed:
+- [`appelpy`](https://github.com/mfarragher/appelpy) <img src="https://img.shields.io/github/stars/mfarragher/appelpy.svg?style=flat&color=orange"> : Python package for easier regression modelling
+- [`obsidiantools`](https://github.com/mfarragher/obsidiantools) <img src="https://img.shields.io/github/stars/mfarragher/obsidiantools.svg?style=flat&color=orange"> : Python package for analysing [Obsidian.md](https://obsidian.md) vaults
+- [![](https://img.shields.io/badge/Shiny-epi_2x2_table_measures-blue?style=flat&labelColor=white&logo=RStudio&logoColor=blue)](https://epi-2x2-table-measures.herokuapp.com) : My first R Shiny app hosted on Heroku generates random contingency tables to use for practising calculations of measures of association in epidemiology.
 
 I enjoy [speaking](https://github.com/mfarragher/mfarragher.github.io/blob/master/index.md#talks-) about data, writing about data projects and sharing resources about data! ⚗
 

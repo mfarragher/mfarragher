@@ -1,6 +1,6 @@
 ### 👋 Hello
 
-I'm a **data scientist** and open-source developer with expertise in **healthcare**, **economics** and **statistical inference**.  I have experience with data science projects in sectors such as e-commerce, education & healthcare. 👛📚🩺  I'm currently studying [MPhil Population Health Sciences](https://www.phs.masters.cam.ac.uk) (_Health Data Science_ stream) at the University of Cambridge. 🎓
+I'm a **data professional** and open-source developer with expertise in **healthcare**, **economics** and **statistical inference**.  I have experience with data science projects in sectors such as e-commerce, education & healthcare. 👛📚🩺  I'm currently a Digital Analytics Manager at Utility Warehouse (⚡) and recently completed my master's degree in [MPhil Population Health Sciences](https://www.phs.masters.cam.ac.uk) (_Health Data Science_ stream) at the University of Cambridge. 🎓
 
 These are data science **packages and apps** I've developed:
 - [`appelpy`](https://github.com/mfarragher/appelpy) <img src="https://img.shields.io/github/stars/mfarragher/appelpy.svg?style=flat&color=orange"> : Python package for easier regression modelling
